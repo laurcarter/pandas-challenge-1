@@ -13,4 +13,4 @@ When there were errors, I resolved them using the following resources:
 # References
 1. DataFrame—Pandas 2.2.2 documentation. (n.d.). Retrieved August 5, 2024, from https://pandas.pydata.org/docs/reference/frame.html
 2. Getting started—Pandas 2.2.2 documentation. (n.d.). Retrieved August 5, 2024, from https://pandas.pydata.org/docs/getting_started/index.html#getting-started
-3. OpenAI. (2023). ChatGPT (March 14 version) [Large language model]. https://chat.openai.com/chat
+3. OpenAI. (2024). ChatGPT (March 14 version) [Large language model]. https://chat.openai.com/chat
