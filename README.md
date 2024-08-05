@@ -1,7 +1,7 @@
 # Client Data Analysis
 ## Overview
 
-This project involves analyzing client data to determine key metrics such as total units purchased, total shipping price, total revenue, and total profit for the top 5 clients. The analysis was performed using the Python pandas library. The results were formatted and presented in a sorted DataFrame based on total profit.
+This project involves analyzing client data to determine key metrics such as total units purchased, total shipping price, total revenue, and total profit for the top 5 clients. The analysis was performed using the Python pandas library. The results were formatted and presented in a sorted DataFrame based on total profit. The main file of this repository is wholesale_data_analysis_starter_code.ipynb, which is located in Starter_Code/Resources.
 
 ## Tools and Resources
 When there were errors, I resolved them using the following resources:
