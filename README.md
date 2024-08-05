@@ -7,8 +7,8 @@ This project involves analyzing client data to determine key metrics such as tot
 When there were errors, I resolved them using the following resources:
 
 	• The Pandas DataFrame Documentation was invaluable for understanding the functions and methods available in pandas.
-	•	The Pandas Getting Started Guide helped me understand the basics and some advanced usage of pandas.
-	•	I used ChatGPT to troubleshoot errors and clarify doubts that arose during the project.
+	• The Pandas Getting Started Guide helped me understand the basics and some advanced usage of pandas.
+	• I used ChatGPT to troubleshoot errors and clarify doubts that arose during the project.
 
 # References
 1. DataFrame—Pandas 2.2.2 documentation. (n.d.). Retrieved August 5, 2024, from https://pandas.pydata.org/docs/reference/frame.html
